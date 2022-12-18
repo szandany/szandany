@@ -1,4 +1,4 @@
-<img src="https://github.com/cihanguler/cihanguler/blob/main/screen-12.jpg">
+<img src="https://github.com/szandany/szandany/blob/main/software-solution-banner.jpg">
 
 <h1 align="center">Tsvi Zandany</h1>
 
