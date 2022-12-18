@@ -7,13 +7,7 @@
         <div class="description">
           <h1></h1>
           <p>
-            Extensive experience in the business world since 2011 and experience as a Test Automation Engineer since 2017.
-            Sound knowledge of the Software Development Life Cycle (SDLC), the Software Test Life Cycle (STLC), the
-            Defect Life Cycle, the Agile Scrum method. Knowledge of database, API testing and automation testing
-            with automation tools Cypress.io, Robotframework, Selenium, Cucumber, Gherkin, JUnit, TestNG in DDT, BDD frameworks with Java, Python and Javascript.
-            Strong analytical and logical thinking skills, focused on solving problems. 
-            Fast learner and adaptable to changing circumstances as well as more detail oriented and awesome
-            team player.
+            I am a Software Solutions Engineer specialized in designing & crafting customized solutions for new customers. I take a customer's vision of success and integrate the realities of their existing environments and constraints to create a viable solution for their technical success. I am a big picture thinker, using automation, efficiency, and cybersecurity tools to achieve customers' goals.
           </p>
         </div>
   </div>
