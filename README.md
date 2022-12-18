@@ -13,8 +13,8 @@
   </div>
   
   ### Blogs posts and Webinars
-  <a img src ="https://github.com/szandany/szandany/blob/main/liquibase_logo.png"> </a>
-  <a href ="How To Bring Devops to the Database with GitLab and Liquibase/"><img src ="https://about.gitlab.com/blog/2022/01/05/how-to-bring-devops-to-the-database-with-gitlab-and-liquibase/"> </a>
+  <a href="https://www.liquibase.com" target="_blank" img src ="https://github.com/szandany/szandany/blob/main/liquibase_logo.png"> </a>
+  <a href ="[How To Bring Devops to the Database with GitLab and Liquibase/](https://about.gitlab.com/blog/2022/01/05/how-to-bring-devops-to-the-database-with-gitlab-and-liquibase/)"> </a>
 
 <p align="left">
 </p>
