@@ -44,8 +44,8 @@
         <h3>Follow Me</h3>
         <p>
           <a href="https://www.linkedin.com/in/tsvi-zandany/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="40" height="40"/>Linkedin</a>  <p/> 
-          <a href="https://resume-cihanguler.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/564x/f3/7c/88/f37c88e8750ac1437782420f55b1df21.jpg" alt="Resume" width="40" height="40"/> Resume </a>   </p>
+          <a href="https://resume-cihanguler.verce/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/564x/f3/7c/88/f37c88e8750ac1437782420f55" alt="Resume" width="40" height="40"/> Resume </a>   </p>
               <a href="https://medium.com/@cihanguler" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="Medium" width="40" height="40"/>Medium</a>  <p/> 
-          <a href="mailto:cihangueler.de@gmail.com" target="_blank"  rel="noreferrer"> <img src="https://as1.ftcdn.net/v2/jpg/02/73/74/34/1000_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" alt="E-Mail" width="40" height="40"/> E-Mail </a>  
+          <a href="mailto:cihangueler.de@gmail.com" target="_blank"  rel="noreferrer"> <img src="https://as1.ftcdn.net/v2/jpg/02/73/74/34/1000_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBs" alt="E-Mail" width="40" height="40"/> E-Mail </a>  
       </div>
 </div>
