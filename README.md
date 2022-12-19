@@ -16,7 +16,7 @@
  <p align="left"> 
      <a href="https://about.gitlab.com/blog/2022/01/05/how-to-bring-devops-to-the-database-with-gitlab-and-liquibase/" target="_blank" rel="noreferrer"><img src="https://fontawesomeicons.com/lib/svg/liquibase.svg" alt="Liquibase" width="40" height="40"/> How To Bring Devops to the Database with GitLab and Liquibase</a> <p></p>
  <p align="left"> 
-     <a href="https://webinars.devops.com/migrate-from-jenkins-to-circleci-on-aws-to-accelerate-your-software-delivery" target="_blank" rel="noreferrer"><img src="https://www.iconbolt.com/preview/facebook/coreui-brand/circleci.svg" alt="CircleCI" width="40" height="40"/> How To Bring Devops to the Database with GitLab and Liquibase</a> <p></p>
+     <a href="https://webinars.devops.com/migrate-from-jenkins-to-circleci-on-aws-to-accelerate-your-software-delivery" target="_blank" rel="noreferrer"><img src="https://www.iconbolt.com/preview/facebook/coreui-brand/circleci.svg" alt="CircleCI" width="50" height="40"/> Migrate from Jenkins to CircleCI on AWS to Accelerate your Software Delivery</a> <p></p>
 <p align="left">
 </p>
 
