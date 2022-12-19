@@ -13,7 +13,8 @@
   </div>
  
  <h3 align="left">Blogs posts and Webinars</h3>
- <p align="left"> <img src="https://fontawesomeicons.com/lib/svg/liquibase.svg" alt="Liquibase" width="40" height="40"/>
+ <img src="https://fontawesomeicons.com/lib/svg/liquibase.svg" alt="Liquibase" width="40" height="40"/>
+ <p align="left"> 
      <a href="https://about.gitlab.com/blog/2022/01/05/how-to-bring-devops-to-the-database-with-gitlab-and-liquibase/" target="_blank" rel="noreferrer"> How To Bring Devops to the Database with GitLab and Liquibase</a> </br>
 <a href="https://www.liquibase.com/videos/database-devops-applying-devops-principles-to-the-database" target="_blank" rel="noreferrer"> Database Devops Applying Devops Principles to the Database</a>
 <p></p>
