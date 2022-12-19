@@ -12,11 +12,9 @@
         </div>
   </div>
   
-  ### Blogs posts and Webinars
+ ### Blogs posts and Webinars
  <p align="left"> 
-    <a href="https://www.liquibase.com" target="_blank" img src ="https://branditechture.agency/brand-logos/download/liquidbase/?wpdmdl=57059&refresh=63a0688859b801671456904&ind=1666888276565&filename=1666888276wpdm_Liquibase.svg"> </a>
-  <a href ="[How To Bring Devops to the Database with GitLab and Liquibase/](https://about.gitlab.com/blog/2022/01/05/how-to-bring-devops-to-the-database-with-gitlab-and-liquibase/)"> </a>
-
+      <a href="https://www.liquibase.com" target="_blank" <img src="https://branditechture.agency/brand-logos/download/liquidbase/?wpdmdl=57059&refresh=63a0688859b801671456904&ind=1666888276565&filename=1666888276wpdm_Liquibase.svg" alt="Liquibase" width="40" height="40"/> How To Bring Devops to the Database with GitLab and Liquibase</a> <p></p>
 <p align="left">
 </p>
 
