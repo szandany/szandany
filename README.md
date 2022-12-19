@@ -14,11 +14,11 @@
   
  ### Blogs posts and Webinars
  <p align="left"> 
-      <a href="https://www.liquibase.com" target="_blank" <img src="https://branditechture.agency/brand-logos/download/liquidbase/?wpdmdl=57059&refresh=63a0688859b801671456904&ind=1666888276565&filename=1666888276wpdm_Liquibase.svg" alt="Liquibase" width="40" height="40"/> How To Bring Devops to the Database with GitLab and Liquibase</a> <p></p>
+      <a href="https://www.liquibase.com" target="_blank" <img src="https://fontawesomeicons.com/lib/svg/liquibase.svg" alt="Liquibase" width="40" height="40"/> How To Bring Devops to the Database with GitLab and Liquibase</a> <p></p>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> Amazon Web Services</a> <p></p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS </a> <p></p>
