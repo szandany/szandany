@@ -12,6 +12,8 @@
         </div>
   </div>
  
+        ![Tsvi's github stats](https://github-readme-stats.vercel.app/api?username=szandany&show_icons=true&theme=radical&hide=contribs,prs)
+ 
  <h3 align="left">Blogs posts and Webinars</h3>
  <p align="left"> 
      <a href="https://about.gitlab.com/blog/2022/01/05/how-to-bring-devops-to-the-database-with-gitlab-and-liquibase/" target="_blank" rel="noreferrer"><img src="https://fontawesomeicons.com/lib/svg/liquibase.svg" alt="Liquibase" width="40" height="40"/> How To Bring Devops to the Database with GitLab and Liquibase</a> </br>
@@ -51,5 +53,3 @@
           <a href="mailto:thezandan@gmail.com" target="_blank"  rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/thumbnails/002/205/854/small/email-icon-free-vector.jpg" alt="E-Mail" width="40" height="40"/> E-Mail </a>  
       </div>
 </div>
-
-![Tsvi's github stats](https://github-readme-stats.vercel.app/api?username=szandany&show_icons=true&theme=radical&hide=contribs,prs)
