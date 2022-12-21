@@ -51,3 +51,5 @@
           <a href="mailto:thezandan@gmail.com" target="_blank"  rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/thumbnails/002/205/854/small/email-icon-free-vector.jpg" alt="E-Mail" width="40" height="40"/> E-Mail </a>  
       </div>
 </div>
+
+![Tsvi's github stats](https://github-readme-stats.vercel.app/api?username=szandany&show_icons=true&theme=radical&hide=contribs,prs)
