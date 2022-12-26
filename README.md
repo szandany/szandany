@@ -15,7 +15,7 @@
  <h3 align="left">Blogs posts and Webinars</h3>
  <p align="left"> 
      <a href="https://about.gitlab.com/blog/2022/01/05/how-to-bring-devops-to-the-database-with-gitlab-and-liquibase/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/438548?s=280&v=4" alt="Liquibase" width="40" height="40"/> How To Bring Devops to the Database with GitLab and Liquibase</a> </br>
-<a href="https://www.liquibase.com/videos/database-devops-applying-devops-principles-to-the-database" target="_blank" rel="noreferrer"><img src="https://fontawesomeicons.com/lib/svg/liquibase.svg" alt="Liquibase" width="40" height="40"/> Database Devops Applying Devops Principles to the Database</a>
+<a href="https://www.liquibase.com/videos/database-devops-applying-devops-principles-to-the-database" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/438548?s=280&v=4" alt="Liquibase" width="40" height="40"/> Database Devops Applying Devops Principles to the Database</a>
 <p></p>
  <p align="left"> 
      <a href="https://webinars.devops.com/migrate-from-jenkins-to-circleci-on-aws-to-accelerate-your-software-delivery" target="_blank" rel="noreferrer"><img src="https://www.iconbolt.com/preview/facebook/coreui-brand/circleci.svg" alt="CircleCI" width="45" height="40"/> Migrate from Jenkins to CircleCI on AWS to Accelerate your Software Delivery</a> <p></p>
