@@ -2,7 +2,7 @@
 
 <h1 align="center">Tsvi Zandany</h1>
 
-<h3 align="center"> Currently working at CircleCI </h3>
+<h3 align="center"> Working at GitHub </h3>
     <div class="content">
         <div class="description">
           <h1></h1>
